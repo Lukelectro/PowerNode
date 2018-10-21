@@ -1,0 +1,44 @@
+Designator,Hoeveelheid,Wat is het,Bestelnummer,leverancier,opm
+TR1,1,ZMCT118F 1000:1,ZMCT118F,Aliexpress,
+U4,1,ESP32-WROOM,,Adafruit / arrow,DNP
+"U1,U2",2,VOS627,2547284,Farnell,
+U7,1,R-78E3.3-0.5,2218602,Farnell. RS:777-3291,"OPT, alleen bij Wroom"
+"P10,P11,P2,P3,P5,P6,P8",7,CONN_01X02,Pinheader,generiek,
+C2,1,100n_OPT,2522443,Farnell,
+"C5,C10,C8",3,100n,2522443,Farnell,
+C1,1,100uF,8126240,Farnell,
+C3,1,C_2u2_OPT,2429358,Farnell,
+"C4,C9",2,2u2,2429358,Farnell,
+"C6,C7",2,10n_MAINS,MKS4-1000 10N2,Reichelt: MKS4-1000 10N2,
+D1,1,AARTLED,LED 105 A RT,Reichelt,"buitenkant kastje krijgt 2 led’s
+Dus koop er 2 per kastje"
+D2,1,bav99+,2675152,Farnell,
+"D4,D6,D8",3,LED,LED,generiek,
+"D5,D11",2,Zener_3v3,1861479,Farnell 1861479 / Reichelt BZX 55C3V3 VIS,
+P1,1,CONN_01X25_POESP1.0,Pinheader Female,generiek,
+"Q1,Q2",2,BC847, BC 847B SMD,"Reichelt (of SMDshop, of Farnell)",
+"R1,R2,R10,R17,R20,R21,R24,R30,R31",9,33k 0805,"Reichelt: SMD-0805 33,0K",SMDshop / Farnell / Reichelt,
+"R3,R5,R15,R16",4,2k2 0805,"Reichelt: SMD-0805 2,20K",SMDshop / Farnell / Reichelt,
+R4,1,7k15 0805,2695089,SMDshop / Farnell / Reichelt,
+"R6,R7,R8,R9,R11,R12,R13,R14",8,68k 1206,2447536,SMDshop / Farnell / Reichelt: SMD 1/4W 68K,
+"R18,R25,R26",3,330R 0805,Reichelt: SMD-0805 330,SMDshop / Farnell / Reichelt,
+"R19,R22",2,10k 0805,"Reichelt: SMD-0805 10,0K",SMDshop / Farnell / Reichelt,
+R23,1,50R 1% 0805,2447669,SMDshop / Farnell / Reichelt,
+RL1,1,FINDER-40.52,MSLSTOCK,Generiek,
+"SW1,SW2",2,SW_Push,MSLSTOCK,Generiek,
+U3,1,LM35-LP,DNP,DNP,DNP
+U5,1,MOC3023M DIP-6,1021367,Farnell,
+U6,1,NCP1117ST33T3G_MountingTab,DNP,DNP,DNP
+P4,1,CONN_01X03,Pinheader,Generiek,
+P7,1,CONN_01X08,Pinheader Female,Generiek,
+P9,1,CONN_01X16,Pinheader,Generiek,
+"J1,J2,J4,J6",4,Screw_Terminal_1x02,,Reichelt: RND 205-00232,"Goedkoper dan farnell
+Zeker bij 10 powernodes"
+"J3,J5",2,Screw_Terminal_1x03,,Reichelt: RND 205-00288,Goedkoper dan farnell
+"R27,R28",2,470R 1206,2861948,SMDshop / Farnell / Reichelt,
+R29,1,39R 1206,SMD 1/4W 39,SMDshop / Farnell / Reichelt,
+D3,1,OPTIONAL1n4148,2675147,Farnell,OPT
+D7,1,1n4148,2675147,Farnell,
+D12,1,Q_TRIAC_AAG_BTA24-600BRWG,1057284,Farnell,
+PS1,1,HiLink_HLK-PM01,HLK-PM01,Aliexpress,"OPT, alleen bij Wroom"
+F1,1,"0,1AT",F0.1AT,Generiek,"OPT, alleen bij Wroom"
