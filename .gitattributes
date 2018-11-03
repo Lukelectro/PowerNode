@@ -1,0 +1,12 @@
+./Gerbers_v1p1 linguist-detectable=false
+*.GBL linguist-generated=true
+*.GBO linguist-generated=true
+*.GBS linguist-generated=true
+*.GML linguist-generated=true
+*.GTL linguist-generated=true
+*.GTO linguist-generated=true
+*.GTS linguist-generated=true
+*.ps linguist-generated=true
+*.gbr linguist-generated=true
+*.gbrjob linguist-generated=true
+
